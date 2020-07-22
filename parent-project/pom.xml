@@ -3,4 +3,6 @@
   <groupId>com.test.aay</groupId>
   <artifactId>parent-project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+   <packaging>pom</packaging>
+  
 </project>
